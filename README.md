@@ -16,6 +16,14 @@ Beyond simple predictions, CardioCare integrates **Explainable AI (XAI)** to pro
 - **📝 Auto-Generated EHR Notes:** Synthesizes patient vitals, risk scores, and top risk drivers into a professional clinical note ready to be copied into Electronic Health Record (EHR) systems.
 - **Professional UI/UX:** Built with Streamlit and Plotly, featuring a custom dark healthcare aesthetic and interactive gauge charts.
 
+## 📊 Dataset Reference
+The machine learning models powering this dashboard were trained on the **Heart Disease Dataset** from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/45/heart+disease). It utilizes 13 core clinical attributes (including cholesterol, fasting blood sugar, and resting ECG results) to accurately predict the presence of heart disease in patients.
+
+## 👥 Contributors
+This project was built collaboratively:
+- [Vineesh-12](https://github.com/Vineesh-12) - *Project Lead*
+- *(Add your team members here)*
+
 ## 🛠️ Technology Stack
 
 - **Frontend/UI:** [Streamlit](https://streamlit.io/)
